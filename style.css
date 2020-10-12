@@ -48,3 +48,13 @@ li{
   color:  #648880;
 
 }
+.header{
+  background: #293f50;
+ text-decoration: none;
+ text-underline-position: none;
+ font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+
+}
+a{
+  color: white;
+}
