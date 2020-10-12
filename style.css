@@ -58,3 +58,17 @@ li{
 a{
   color: white;
 }
+.copy{
+  float: left;
+    font-weight: 400;
+    color:  #648880;
+    padding-left: 17%;
+    position: relative;top: 50px;
+}
+.links{
+  padding-left: 60%;
+  font-size: 20px;
+  position: relative;top: 50px;
+  word-spacing: 10px;
+  color: white;
+}
