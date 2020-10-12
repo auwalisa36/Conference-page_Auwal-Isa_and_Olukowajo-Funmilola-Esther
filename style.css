@@ -1,0 +1,50 @@
+a:link {
+  text-decoration: none;
+  color: white;
+ 
+}
+a:visited {
+  text-decoration: none;
+  text-underline-position: none;
+}
+
+a:hover {
+  text-decoration: none;
+  text-underline-position: none;
+  color: #648880;
+}
+
+a:active {
+  text-decoration: none;
+  color: #648880;
+}
+li{
+  display: inline;
+  font-size: 20px;
+}
+.conference{
+  /* padding-top: 20px; */
+  font-size: 53px;
+  border-top: 4px solid #648880;
+  color: white;
+  letter-spacing: 5px;
+  font-weight: 100px;
+  line-height: 44px;
+  padding: 40px 0 22px 0;
+ padding-left: 17%;
+
+
+}
+.listbars{
+  padding-left: 60%;
+  position: relative;bottom: 70px;
+  font-size: 21px;
+  word-spacing: 20px;
+}
+.august{
+  position: relative;bottom: 80px;
+  padding-left: 60%;
+  font-size: 25px;
+  color:  #648880;
+
+}
