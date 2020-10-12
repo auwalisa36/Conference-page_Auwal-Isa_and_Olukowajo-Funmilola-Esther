@@ -104,6 +104,75 @@ a{
 .purchase{
   font-size: 30px;
   line-height: 33px;
-  padding-left: 17%;
+  padding-left: 15%;
+margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;top: 77px;
+}
+.formbox{
+ padding-left: 40%;
+}
+.per{
+  font-size: 19px;
+  line-height: 33px;
+  padding-left: 15%;
   margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;bottom: 115px;
+}
+.paragra{
+  font-size: 20px;
+  line-height: 44px;
+  padding-left: 15%;
+position: relative;bottom: 300px;
+ color: #888888;
+ font-weight: 100px;
+}
+.why{
+  font-size: 25px;
+  line-height: 33px;
+  padding-left: 15%;
+  margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;bottom: 260px;
+}
+.move{
+  font-size: 21px;
+  line-height: 33px;
+  padding-left: 18%;
+  margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;bottom: 430px;
+}
+.formbox{
+  padding-left: 67%;
+  position: relative;bottom: 1120px;
+  font-size: 21px;
+ 
+}
+.input{
+  color: rgb(136, 136, 136);
+    display: block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(198, 201, 204);
+    border-image: initial;
+    border-radius: 5px;
+    margin: 5px 0px 40px;
+    padding: 5px 8px;
+    font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 35px ;
+    width: 330px;
+}
+.input3{
+  width: 70px;
+  height: 36px;
+  margin: 5px 0px 40px;
+  border-radius: 5px;
+}
+.input4{
+  width: 330px;
+  height: 140px;
+  border-radius: 5px;
+  margin: 5px 0px 40px;
 }
