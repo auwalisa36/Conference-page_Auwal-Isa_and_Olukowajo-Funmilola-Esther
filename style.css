@@ -72,3 +72,38 @@ a{
   word-spacing: 10px;
   color: white;
 }
+.footer{
+  background: #293f50;
+  height: 120px;
+}
+.main{
+  background: white;
+  font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+.second{
+  background: #cbe2c1;
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+  font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+.reg{
+  color: rgb(100, 136, 128);
+  font-size: 50px;
+  line-height: 44px;
+  margin-bottom: 100px;
+  padding-left: 47%;
+  font-weight: 100px;
+  position: relative;top: 30px;
+}
+.noted{
+  font-size: 21px;
+    line-height: 33px;
+    text-align: center;
+   position: relative;bottom: 38px;
+   color: #888888;
+}
+.purchase{
+  font-size: 30px;
+  line-height: 33px;
+  padding-left: 17%;
+  margin-bottom: 200px;
+}
