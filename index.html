@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Venue</title>
+    <title>Register</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="reset.css">
 </head>
@@ -23,7 +23,7 @@
             <li><a href="">Register</a></li>
           </ul>
         </nav>
-
+      </header>
         <main class="main">
 
           <div class="second">
@@ -51,20 +51,20 @@
         </span>
          <form class="formbox" action="">
           <h5>Name</h5>
-          <input type="button" value="" class="input" placeholder="Full Name">
+          <input type="name" value="" id="fullName" class="input" placeholder="Full Name">
           <h5>Email</h5>
-          <input type="button" value=""  class="input" placeholder="Email address">
+          <input type="email" value="" id="emailAddress"  class="input" placeholder="Email address">
           <h5>Number of Passes</h5>
-           <select  class="input, input3" name="" id=""></select>
+           <select class="input, input3" name="" id="numberOfPasses"></select>
           <h5>Comments</h5>
-          <input type="button"  class="input, input4" value="" placeholder="comment">
-          <button>PURCHASE</button>
+          <input type="" id="comment"  class="input, input4" value="" placeholder="">
+          <button class="purchasebut" onclick="submitButton()">PURCHASE</button>
 
          </form>
 
         </main>
       
-        </header>
+       
 
         <footer class="footer">
           <p class="copy">&copy; Styles Conference</p>

@@ -1,3 +1,11 @@
+H1, h2, h3, h4 { 
+  color: #648880
+}
+body{
+  font-style:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
 a:link {
   text-decoration: none;
   color: white;
@@ -52,7 +60,7 @@ li{
   background: #293f50;
  text-decoration: none;
  text-underline-position: none;
- font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+ font-style:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
 a{
@@ -75,15 +83,17 @@ a{
 .footer{
   background: #293f50;
   height: 120px;
+  position: relative;top: 1000px;
 }
 .main{
   background: white;
-  font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+  font-style: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100px;
 }
 .second{
   background: #cbe2c1;
   background: linear-gradient(to right, #a1d3b0, #f6f1d3);
-  font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-style: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .reg{
   color: rgb(100, 136, 128);
@@ -148,6 +158,7 @@ position: relative;bottom: 300px;
   padding-left: 67%;
   position: relative;bottom: 1120px;
   font-size: 21px;
+  color: rgb(136, 136, 136);
  
 }
 .input{
@@ -175,4 +186,12 @@ position: relative;bottom: 300px;
   height: 140px;
   border-radius: 5px;
   margin: 5px 0px 40px;
+}
+.purchasebut{
+  border: 0;
+    background: #648880;
+    padding: 17px 34px;
+    font-size: 17px;
+    border-radius: 5px;
+    color: white;
 }
