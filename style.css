@@ -1,5 +1,6 @@
 H1, h2, h3, h4 { 
   color: #648880
+  
 }
 body{
   font-style:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -48,12 +49,14 @@ li{
   position: relative;bottom: 70px;
   font-size: 21px;
   word-spacing: 20px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .august{
   position: relative;bottom: 80px;
   padding-left: 60%;
   font-size: 25px;
   color:  #648880;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
 .header{
@@ -84,6 +87,7 @@ a{
   background: #293f50;
   height: 120px;
   position: relative;top: 1000px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .main{
   background: white;
@@ -102,6 +106,7 @@ a{
   margin-bottom: 100px;
   padding-left: 47%;
   font-weight: 100px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   position: relative;top: 30px;
 }
 .noted{
@@ -110,6 +115,7 @@ a{
     text-align: center;
    position: relative;bottom: 38px;
    color: #888888;
+   font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .purchase{
   font-size: 30px;
@@ -145,6 +151,7 @@ position: relative;bottom: 300px;
   margin-bottom: 200px;
   color: rgb(100, 136, 128);
   position: relative;bottom: 260px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .move{
   font-size: 21px;
@@ -153,6 +160,7 @@ position: relative;bottom: 300px;
   margin-bottom: 200px;
   color: rgb(100, 136, 128);
   position: relative;bottom: 430px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .formbox{
   padding-left: 67%;
@@ -173,6 +181,7 @@ position: relative;bottom: 300px;
     padding: 5px 8px;
     font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     height: 35px ;
+    font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 330px;
 }
 .input3{
