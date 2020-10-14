@@ -18,9 +18,9 @@
         <nav class="listbars">
          
           <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">Venue</a></li>
-            <li><a href="">Register</a></li>
+            <li><a href="">HOME</a></li>
+            <li><a href="">VENUE</a></li>
+            <li><a href="">REGISTER</a></li>
           </ul>
         </nav>
       </header>
@@ -49,24 +49,27 @@
         </ul>
       </nav>
         </span>
+
          <form class="formbox" action="">
           <h5>Name</h5>
           <input type="name" value="" id="fullName" class="input" placeholder="Full Name">
           <h5>Email</h5>
           <input type="email" value="" id="emailAddress"  class="input" placeholder="Email address">
           <h5>Number of Passes</h5>
-           <select class="input, input3" name="" id="numberOfPasses"></select>
+           <select class="input, input3" name="" id="numberOfPasses">
+             <option value="1" selected>1</option>
+             <option value="2">2</option>
+             <option value="3">3</option>
+             <option value="4">4</option>
+             <option value="5">5</option>
+           </select>
           <h5>Comments</h5>
-          <input type="" id="comment"  class="input, input4" value="" placeholder="">
-          <button class="purchasebut" onclick="submitButton()">PURCHASE</button>
-
+          <textarea name="input" class="input, input4" ></textarea>
+          <button class="purchasebut">PURCHASE</button>
          </form>
-
         </main>
       
-       
-
-        <footer class="footer">
+         <footer class="footer">
           <p class="copy">&copy; Styles Conference</p>
           <nav class="links">
           <ul>
@@ -75,8 +78,6 @@
             <li><a href="">Register</a></li>
           </ul>
         </nav>
-
-
         </footer>
 <script src="script.js"></script>
 </body>
