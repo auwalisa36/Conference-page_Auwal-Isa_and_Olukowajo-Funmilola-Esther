@@ -88,7 +88,7 @@ li{
 }
 .chicago{
   color:  #648880;
-  font-style: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+  font-style:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
 }
 .chicago{
   padding-left: 17%;
@@ -143,4 +143,8 @@ a{
   position: relative;top: 50px;
   word-spacing: 10px;
   color: white;
+}
+h1 h2 h3 h4 h5{
+  font-family: 'Lato' "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+  
 }
