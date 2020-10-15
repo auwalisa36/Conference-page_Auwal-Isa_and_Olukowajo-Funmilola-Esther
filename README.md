@@ -19,7 +19,7 @@ switch through the navigation bars to view the home, venue and register page.
 * JS
 
 # Live Demo
-This is alive demo(https://raw.githack.com/auwalisa36/Conference-page_Auwal-Isa_and_Olukowajo-Funmilola-Esther/home-branch/index.html)
+This is alive demo(https://raw.githack.com/auwalisa36/Conference-page_Auwal-Isa_and_Olukowajo-Funmilola-Esther/main/home.html)
 
 # Author
 Olukowajo Funmilola Esther and Auwal Isa
