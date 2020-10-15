@@ -8,7 +8,7 @@ A project for a conference program.
 switch through the navigation bars to view the home, venue and register page.
 
 # Project screenshoot
-![This is an alt text](/img.PNG "This is a sample logo")
+![This is an alt text](/assets/img/img.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/auwalisa36/Conference-page_Auwal-Isa_and_Olukowajo-Funmilola-Esther.git)
