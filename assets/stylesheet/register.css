@@ -1,0 +1,234 @@
+H1, h2, h3, h4 { 
+  color: #648880
+  
+}
+body{
+  font-style:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+ 
+}
+a:visited {
+  text-decoration: none;
+  text-underline-position: none;
+}
+
+a:hover {
+  text-decoration: none;
+  text-underline-position: none;
+  color: #648880;
+}
+
+a:active {
+  text-decoration: none;
+  color: #648880;
+}
+li{
+  display: inline;
+  font-size: 20px;
+}
+.conference{
+  /* padding-top: 20px; */
+  font-size: 53px;
+  border-top: 4px solid #648880;
+  color: white;
+  letter-spacing: 5px;
+  font-weight: 100px;
+  line-height: 44px;
+  padding: 40px 0 22px 0;
+ padding-left: 17%;
+
+
+}
+.listbars{
+  padding-left: 60%;
+  position: relative;bottom: 70px;
+  font-size: 21px;
+  word-spacing: 20px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.august{
+  position: relative;bottom: 80px;
+  padding-left: 60%;
+  font-size: 25px;
+  color:  #648880;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.header{
+  background: #293f50;
+ text-decoration: none;
+ text-underline-position: none;
+ font-style:"Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+a{
+  color: white;
+}
+.copy{
+  float: left;
+    font-weight: 400;
+    color:  #648880;
+    padding-left: 17%;
+    position: relative;top: 50px;
+}
+.links{
+  padding-left: 60%;
+  font-size: 20px;
+  position: relative;top: 50px;
+  word-spacing: 10px;
+  color: white;
+}
+.footer{
+  background: #293f50;
+  height: 120px;
+  position: relative;top: 1000px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.main{
+  background: white;
+  font-style: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100px;
+}
+.second{
+  background: #cbe2c1;
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+  font-style: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.reg{
+  color: rgb(100, 136, 128);
+  font-size: 50px;
+  line-height: 44px;
+  margin-bottom: 100px;
+  padding-left: 47%;
+  font-weight: 100px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;top: 30px;
+}
+.noted{
+  font-size: 21px;
+    line-height: 33px;
+    text-align: center;
+   position: relative;bottom: 38px;
+   color: #888888;
+   font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.purchase{
+  font-size: 30px;
+  line-height: 33px;
+  padding-left: 15%;
+margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;top: 77px;
+}
+.formbox{
+ padding-left: 40%;
+}
+.per{
+  font-size: 19px;
+  line-height: 33px;
+  padding-left: 15%;
+  margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;bottom: 115px;
+}
+.paragra{
+  font-size: 20px;
+  line-height: 44px;
+  padding-left: 15%;
+position: relative;bottom: 300px;
+ color: #888888;
+ font-weight: 100px;
+}
+.why{
+  font-size: 25px;
+  line-height: 33px;
+  padding-left: 15%;
+  margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;bottom: 260px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.move{
+  font-size: 21px;
+  line-height: 33px;
+  padding-left: 18%;
+  margin-bottom: 200px;
+  color: rgb(100, 136, 128);
+  position: relative;bottom: 430px;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.formbox{
+  padding-left: 67%;
+  position: relative;bottom: 1120px;
+  font-size: 21px;
+  color: rgb(136, 136, 136);
+ }
+.input{
+  color: rgb(136, 136, 136);
+    display: block;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(198, 201, 204);
+    border-image: initial;
+    border-radius: 5px;
+    margin: 5px 0px 40px;
+    padding: 5px 8px;
+    font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 35px ;
+    font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 330px;
+}
+
+.numberOfPasses{
+  color: rgb(136, 136, 136);
+  display: block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(198, 201, 204);
+  border-image: initial;
+  border-radius: 5px;
+  margin: 5px 0px 40px;
+  padding: 5px 8px;
+  font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 35px ;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 330px;
+  width: 70px;
+  height: 36px;
+  margin: 5px 0px 40px;
+  border-radius: 5px;
+}
+
+.comments{
+  color: rgb(136, 136, 136);
+  display: block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(198, 201, 204);
+  border-image: initial;
+  border-radius: 5px;
+  margin: 5px 0px 40px;
+  padding: 5px 8px;
+  font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 35px ;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 330px;
+  width: 330px;
+  height: 140px;
+  border-radius: 5px;
+  margin: 5px 0px 40px;
+}
+
+.purchasebut{
+  border: 0;
+    background: #648880;
+    padding: 17px 34px;
+    font-size: 17px;
+    border-radius: 5px;
+    color: white;
+}

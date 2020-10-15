@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+.parent{
+    background: #293F50 ;
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.logo {
+        margin-left: 10%;
+        float: left;
+        font-weight: 50;
+        letter-spacing: .5px;
+        line-height: 44px;
+        border-top: 2px;
+        color: white;
+        font: 48px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.dedicate{
+    color: #648880;
+    font: 36px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.date {
+    margin-top: 5%;
+    margin-left: 60%; 
+    padding-right: 60px;
+    font-size: 21px;
+    color: #648880;
+    font: 21px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.nav{
+    padding-left: 57.5%;
+}
+
+.li {
+    list-style: none;
+    margin: 4%;
+    padding-right: 10px;
+    color: white;
+}
+
+.link {
+    padding-left: 2%;
+    display: inline;
+    margin-right: 10%;
+    color: white;
+    font: 14px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.p{
+    color: white;
+    font: 24px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.button{
+    padding: 20px 40px;
+    margin-left: 40%;
+    border-radius: 5px;
+    color:white;
+    background: #293F50 ;
+    border: groove;
+    border-color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    letter-spacing: .5px;
+    margin-right: 70px;
+    margin-top: 3%;
+    margin-bottom: 8%;
+    font: 16px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .section1{
+    text-align: center;
+    padding-top: 60px;
+    }
+
+    .homebody {
+     display: flex;
+     background: white;
+    }
+
+    .imgf{
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 22px;
+    max-width: 300px;
+    margin-left: 2px;
+           }
+
+    .speakers,
+    .schedule,
+    .venue{
+    margin-left: 12%;
+    width: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font: 14px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .h{
+        margin-bottom: 10%;
+        color: #648880;
+    }
+
+    .hh{
+        margin-bottom: 10%;
+        color: #648880;
+        font: 21px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .pp{
+        font: 16px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
+    .footer{
+    padding: 4% 10% 4% 10%;
+    font: 14px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #648880;
+    }
+
+    .copy {
+        float: left;
+    }
+
+        .li2 {
+        word-spacing: 40px;
+        margin-left: 75%;  
+      }
+    
+    .link2 {
+        display: inline;
+    }
+      a{
+    color: white;
+        }
+        
+        a:link {
+            text-decoration: none;
+            color: white;
+           
+          }
+     a:visited {
+      text-decoration: none;
+       text-underline-position: none;
+      }
+          
+      a:hover {
+            text-decoration: none;
+            text-underline-position: none;
+            color: #648880;
+              }
+          
+          a:active {
+            text-decoration: none;
+            color:#648880;
+          }
+          .button:hover{
+            background-color: white;
+            color: #648880;
+          }
+         
