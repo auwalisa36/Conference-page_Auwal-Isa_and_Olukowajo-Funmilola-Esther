@@ -184,18 +184,47 @@ position: relative;bottom: 300px;
     font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 330px;
 }
-.input3{
+
+.numberOfPasses{
+  color: rgb(136, 136, 136);
+  display: block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(198, 201, 204);
+  border-image: initial;
+  border-radius: 5px;
+  margin: 5px 0px 40px;
+  padding: 5px 8px;
+  font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 35px ;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 330px;
   width: 70px;
   height: 36px;
   margin: 5px 0px 40px;
   border-radius: 5px;
 }
-.input4{
+
+.comments{
+  color: rgb(136, 136, 136);
+  display: block;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(198, 201, 204);
+  border-image: initial;
+  border-radius: 5px;
+  margin: 5px 0px 40px;
+  padding: 5px 8px;
+  font: 300 16px / 22px Lato, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 35px ;
+  font:  "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 330px;
   width: 330px;
   height: 140px;
   border-radius: 5px;
   margin: 5px 0px 40px;
 }
+
 .purchasebut{
   border: 0;
     background: #648880;
